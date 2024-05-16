@@ -3,3 +3,5 @@ lib
 dist
 npm-debug.log
 browserStack.json
+yarn.lock
+package-lock.json
