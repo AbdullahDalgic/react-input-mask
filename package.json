@@ -1,10 +1,10 @@
 {
-  "name": "react-input-mask",
+  "name": "react-input-mask3",
   "description": "Masked input component for React",
   "version": "3.0.1",
   "homepage": "https://github.com/AbdullahDalgic/react-input-mask",
   "license": "MIT",
-  "author": "Nikita Lobachev <sanniassin@gmail.com>",
+  "author": "Abdullah Dalgıç <info@abdullahdalgic.com.tr>",
   "keywords": [
     "react",
     "input",
